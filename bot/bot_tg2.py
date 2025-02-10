@@ -37,4 +37,5 @@ def raspisanie(day, group):
     return array
 
 
+
 #raspisanie("Понедельник","ИС-24 (РА)")
